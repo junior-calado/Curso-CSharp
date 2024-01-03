@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.SistemaInterno", "ByteBank.SistemaInterno\ByteBank.SistemaInterno.csproj", "{267D919E-09AB-4846-8B64-53EE43782A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{267D919E-09AB-4846-8B64-53EE43782A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267D919E-09AB-4846-8B64-53EE43782A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267D919E-09AB-4846-8B64-53EE43782A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267D919E-09AB-4846-8B64-53EE43782A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607E0F6E-9CF6-4BCE-B50E-824DFBF2500A}
+	EndGlobalSection
+EndGlobal
