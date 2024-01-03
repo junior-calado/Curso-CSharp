@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace ByteBank.Modelos
 {
     class ClasseTeste
-    {
+    {/*
         public ClasseTeste()
         {
             ModificadoresTeste teste = new ModificadoresTeste();
             teste.MetodoPublico();
             teste.MetodoProtegido();
 
-        }
+        }*/
     }
 
     class ClasseDerivada : ModificadoresTeste

@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente(458, 4587654);
-            Console.WriteLine(conta.Saldo);
+            DateTime dataFimPagamento = new DateTime(2018, 08, 17);
+
+            Console.WriteLine(dataFimPagamento);
 
             Console.ReadLine();
         }

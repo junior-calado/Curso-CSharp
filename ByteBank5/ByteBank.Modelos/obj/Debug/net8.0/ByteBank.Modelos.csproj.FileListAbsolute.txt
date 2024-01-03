@@ -9,3 +9,6 @@ C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\obj
 C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\obj\Debug\net8.0\refint\ByteBank.Modelos.dll
 C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\obj\Debug\net8.0\ByteBank.Modelos.pdb
 C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\obj\Debug\net8.0\ref\ByteBank.Modelos.dll
+C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\obj\Debug\net8.0\ByteBank.Modelos.sourcelink.json
+C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\bin\Debug\net8.0\ByteBank.Modelos.xml
+C:\Users\Junio\OneDrive\Área de Trabalho\C# code\ByteBank5\ByteBank.Modelos\obj\Debug\net8.0\ByteBank.Modelos.xml
