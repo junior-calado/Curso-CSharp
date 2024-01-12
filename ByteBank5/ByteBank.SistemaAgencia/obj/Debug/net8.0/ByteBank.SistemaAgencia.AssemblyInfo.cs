@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ByteBank.SistemaAgencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e66bdda5d980fa13123092f186110f60e5706224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+637c9edc97a59f201379c62539b6feb3c51de20c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ByteBank.SistemaAgencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ByteBank.SistemaAgencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
